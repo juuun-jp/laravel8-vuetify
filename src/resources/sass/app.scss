@@ -1,1 +1,8 @@
-@import 'reset';
+// vuetify
+@import './reset.scss';
+@import 'vuetify/dist/vuetify.min.css';
+
+// original
+@import 'functions.scss';
+@import 'variables.scss';
+@import 'modules.scss';
