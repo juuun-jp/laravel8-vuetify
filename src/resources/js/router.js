@@ -1,7 +1,6 @@
 
 import VueRouter from 'vue-router'
 
-
 // views
 import Home from './views/Home.vue';
 
